@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/26ufbbBRMXrUh22Ig/gambar.jpg" width="60%">
+<img src="https://media.giphy.com/media/26ufbbBRMXrUh22Ig/gambar.png" width="60%">
 
 # 🏛️ ΧΑΙΡΕΤΕ · WELCOME
 
