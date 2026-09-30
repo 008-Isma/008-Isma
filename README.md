@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/26ufbbBRMXrUh22Ig/gambar.png" width="60%">
+<img src="https://github.com/008-Isma/008-Isma/blob/main/gambar.png" width="60%">
 
 # 🏛️ ΧΑΙΡΕΤΕ · WELCOME
 
